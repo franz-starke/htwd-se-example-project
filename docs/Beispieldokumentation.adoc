@@ -1,0 +1,6 @@
+= Beispiel-Dokumentation mit AsciiDoc 
+Franz Starke franzstarke@yahoo.com
+1.0, 15.10.2024 
+:toc: 
+:toc-title: Inhaltsverzeichnis
+// Platzhalter für weitere Dokumenten-Attribute 
