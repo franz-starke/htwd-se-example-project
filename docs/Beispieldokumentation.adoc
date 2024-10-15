@@ -28,3 +28,20 @@ Franz Starke franzstarke@yahoo.com
 . 200ml Milch hinzufügen
 . 2 Eier dazugeben
 .. Eigelb von Eiweis trennen
+
+=== Tabellen und Textformatierung
+
+|===
+|Formatierung|Syntax|Beschreibung
+| *bold* | \*bold* | fetter Text
+
+| _italic_ | \_italic_ | kursiver Text
+
+| `monospace` | \`monospace` | Text mit fester Laufweite
+
+| *_bolditalic_* | \*_bolditalic_* | Text mit kombinierter Formatierung
+
+| **bold**__italic__ | \\**bold**\\__italic__ | Text mit Formatierung innerhalb eines Wortes
+|===
+
+Ziel: **S**__o__ftw__a__r__e__ **__E__**ng__i__n__ee__``r__i__ng``
