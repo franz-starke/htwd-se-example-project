@@ -4,3 +4,27 @@ Franz Starke franzstarke@yahoo.com
 :toc: 
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute 
+
+== Kennenlernen der Syntax
+
+Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
+
+=== Listen
+
+.Beispiel: unsortierte Liste 
+* Baum
+** Blatt
+** Obst
+* Haus
+** Zimmer
+*** Bett
+* Auto
+** Tür
+** Rad
+** Fenster
+
+.Beispiel: sortierte Liste
+. 100g Mehl in eine Schüssel geben
+. 200ml Milch hinzufügen
+. 2 Eier dazugeben
+.. Eigelb von Eiweis trennen
