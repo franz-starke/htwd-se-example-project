@@ -4,7 +4,6 @@ Franz Starke franzstarke@yahoo.com
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlight.js
-:source-highlighter: rouge
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Kennenlernen der Syntax
@@ -50,6 +49,7 @@ Ziel: **S**__o__ftw__a__r__e__ **__E__**ng__i__n__ee__``r__i__ng``
 
 === Quellcode
 
+.hello_world.c
 [source,c]
 ----
 #include <stdio.h>
@@ -59,4 +59,4 @@ int main(int argc, char* argv[])
     printf("Hello, World!\n");
     return 0;
 }
----
+----
