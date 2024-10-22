@@ -4,6 +4,7 @@ Franz Starke franzstarke@yahoo.com
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlight.js
+:imagesdir: ../images/
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Kennenlernen der Syntax
@@ -60,3 +61,6 @@ int main(int argc, char* argv[])
     return 0;
 }
 ----
+
+=== Bilder
+image::bild.png[]
