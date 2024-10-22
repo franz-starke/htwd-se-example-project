@@ -7,6 +7,7 @@ Franz Starke franzstarke@yahoo.com
 :imagesdir: ../images/
 // Platzhalter für weitere Dokumenten-Attribute 
 
+[#exercise_01]
 == Kennenlernen der Syntax
 
 Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
@@ -31,6 +32,7 @@ Franz Starke franzstarke@yahoo.com
 . 2 Eier dazugeben
 .. Eigelb von Eiweis trennen
 
+[#format_02]
 === Tabellen und Textformatierung
 
 |===
@@ -48,6 +50,7 @@ Franz Starke franzstarke@yahoo.com
 
 Ziel: **S**__o__ftw__a__r__e__ **__E__**ng__i__n__ee__``r__i__ng``
 
+[#sourcecode_03]
 === Quellcode
 
 .hello_world.c
@@ -62,5 +65,13 @@ int main(int argc, char* argv[])
 }
 ----
 
+[#images_04]
 === Bilder
 image::bild.png[]
+
+=== Verweise
+
+* <<exercise_01>>
+* <<format_02>>
+* <<sourcecode_03>>
+* <<images_04>>
