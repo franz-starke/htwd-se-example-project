@@ -75,3 +75,7 @@ image::bild.png[]
 * <<format_02>>
 * <<sourcecode_03>>
 * <<images_04>>
+
+=== includes
+
+include::./src/hello_world.c[lines=3..7]
