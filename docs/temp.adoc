@@ -4,6 +4,7 @@
 
 This was a bugfix
 This was a second bugfix
+test
 
 == Feature 1
 
