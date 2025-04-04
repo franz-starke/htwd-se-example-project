@@ -2,7 +2,7 @@
 
 == Beschreibung
 
-<insert_bugfix_here>
+This was a bugfix
 
 == Feature 1
 
