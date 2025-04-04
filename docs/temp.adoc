@@ -5,6 +5,7 @@
 This was a bugfix
 This was a second bugfix
 test
+test2
 
 == Feature 1
 
