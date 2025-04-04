@@ -7,6 +7,7 @@
 == Feature 1
 
 New feature 1
+New feature 2
 
 == Feature 2
 
