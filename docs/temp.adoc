@@ -3,6 +3,7 @@
 == Beschreibung
 
 This was a bugfix
+This was a second bugfix
 
 == Feature 1
 
